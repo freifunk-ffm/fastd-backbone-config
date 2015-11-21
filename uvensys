@@ -1,0 +1,3 @@
+key "9bd10fb523a566652a9e9db9a7b6019fa66919bf6b640eeb1d68c6d8affce754";
+remote ipv4 "lxc2.ffm.freifunk.net" port 10000;
+
